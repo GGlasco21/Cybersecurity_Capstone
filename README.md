@@ -1,6 +1,9 @@
 # Cybersecurity_Capstone
 Assumed the role as a security engineer supporting an organization's SOC infrastructure. Aided in discovery of vulnerabilities in a webserver, wrote documentation, and presented the findings to the cohort.
 
+![image](https://user-images.githubusercontent.com/84752973/143935720-4c5c4746-0c15-4eeb-926c-1150bbaea747.png)
+
+
 Included below is the objectives, documentation, and report that was presented to a cohort of 35 peers.
 
 Objectives:
